@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="controls_background">#30101010</color>
+    <color name="home_text_color">#101010</color>
+
+    <!--HOME-->
+    <color name="preview_button_background">#50FFFFFF</color>
+    <color name="preview_button_background_pressed">#70BFBFBF</color>
+
+    <!-- 653d84 -->
+    <color name="editor_activity_background">#FFFFFF</color>
+    <color name="save_complete_dialog_image_background">#FFFFFF</color>
+    <color name="save_complete_dialog_info_text_color">#FFFFFF</color>
+    <color name="sharedialog_title_text_color">#FFFFFF</color>
+
+    <!--EDITOR-->
+    <color name="list_tool_item_text_color">#101010</color>
+    <color name="list_tool_divider_color">#AAAAAA</color>
+    <color name="editor_button_background">#FFFFFF</color>
+    <color name="editor_button_background_pressed">#FAFBFC</color>
+    <color name="base_color">#cedded</color>
+
+</resources>

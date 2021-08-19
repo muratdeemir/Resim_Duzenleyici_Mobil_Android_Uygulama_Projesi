@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Resim_Duzenleyici_Mobil_Android_Uygulama_Projesi.iml" filepath="$PROJECT_DIR$/Resim_Duzenleyici_Mobil_Android_Uygulama_Projesi.iml" group="Resim_Duzenleyici_Mobil_Android_Uygulama_Projesi" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Resim_Duzenleyici_Mobil_Android_Uygulama_Projesi/app" />
+    </modules>
+  </component>
+</project>
